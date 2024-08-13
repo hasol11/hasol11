@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ❄️👋
 
 - Sookmyung Women's University Computer Science
 - Solux 2023.03 ~
