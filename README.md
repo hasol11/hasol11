@@ -1,8 +1,8 @@
 ## Hi there 👋
 ---
--Sookmyung Women's University Computer Science
--Solux 2023.03~
--Dacos 2023.09 ~ 2024.09
+- Sookmyung Women's University Computer Science
+- Solux 2023.03~
+- Dacos 2023.09 ~ 2024.09
 <!--
 **hasol11/hasol11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
