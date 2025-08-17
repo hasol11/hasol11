@@ -38,7 +38,7 @@
 - **기간:** 2023.08 ~ 2024.02
 - **성과:** 29기 2학기 SOLUX 프로젝트 발표회 **우수상**
 - **주요 내용:** 기존 민원 시스템의 UI/UX를 개선하고, 민원 접수 및 처리 과정을 효율화하는 웹 서비스를 개발했습니다.
-- **GitHub:** [Repository Link]()
+- **GitHub:** [Repository Link](https://github.com/hasol11/SM-137-Frontend)
 <br>
 
 </div>
