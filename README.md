@@ -56,7 +56,7 @@
 - **주요 내용:**
   - PG(결제 대행사) 가입 시 소상공인이 겪는 서류, 보증보험, 심사, 기술적 장벽 문제를 해결하는 ERP/PMS 통합 솔루션입니다.
   - 간소화된 결제 시스템과 포인트 기반 자체 거래 네트워크를 통해 소상공인-소비자 상생 생태계 구축을 목표로 합니다.
-  - GitHub Actions, Docker, Kubernetes 기반의 CI/CD 파이프라인을 구축하여 개발 자동화 및 안정성을 확보했습니다.
+ <!-- - GitHub Actions, Docker, Kubernetes 기반의 CI/CD 파이프라인을 구축하여 개발 자동화 및 안정성을 확보했습니다.-->
 - **GitHub:**
   - [Repository Link Admin](https://github.com/hasol11/ERP-Tesseris-react-admin)
   - [Repository Link User](https://github.com/hasol11/ERP-Tesseris-react)
