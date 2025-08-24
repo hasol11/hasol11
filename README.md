@@ -31,9 +31,8 @@
 <details>
 <summary><b>숙명137+</b> (숙명여대 민원 시스템 개선 프로젝트)</summary>
 <div markdown="1">
-  
 <br>
-
+  
 - **역할:** Frontend
 - **기간:** 2023.08 ~ 2024.02
 - **성과:** 29기 2학기 SOLUX 프로젝트 발표회 **우수상**
@@ -56,8 +55,7 @@
 - **주요 내용:**
   - PG(결제 대행사) 가입 시 소상공인이 겪는 서류, 보증보험, 심사, 기술적 장벽 문제를 해결하는 ERP/PMS 통합 솔루션입니다.
   - 간소화된 결제 시스템과 포인트 기반 자체 거래 네트워크를 통해 소상공인-소비자 상생 생태계 구축을 목표로 합니다.
- <!-- - GitHub Actions, Docker, Kubernetes 기반의 CI/CD 파이프라인을 구축하여 개발 자동화 및 안정성을 확보했습니다.-->
-- **GitHub:**
+  - **GitHub:**
   - [Repository Link Admin](https://github.com/hasol11/ERP-Tesseris-react-admin)
   - [Repository Link User](https://github.com/hasol11/ERP-Tesseris-react)
   - [Repository Link Backend](https://github.com/hasol11/ERP-Tesseris-springboot)
@@ -77,6 +75,17 @@
 - 무중단을 위한 클라우드 기반 자바 풀스택 개발자 과정 (2025.01 ~ 2025.08)
 - SOLUX 중앙 개발 동아리 28, 29기 운영진 (2023.03 ~ 2025.02)
 - DACOS 데이터 분석 학회 1.5기 (2023.09 ~ 2024.07)
+
+<br>
+
+### 📚 Education & Courses
+<details>
+<summary>My Learning Log 📜</summary>
+<div markdown="1">
+<br>
+- AWS 기반 CICD 환경 구축 강의 (2025.08.21~2025.08.22)
+</div>
+</details>
 
 <br>
 
