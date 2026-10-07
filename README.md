@@ -5,6 +5,7 @@
 ---
 
 **💻 Tech Stack** <br><br>
+
 **Programming Languages**
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
@@ -13,12 +14,19 @@
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 </p>
 
-**Frameworks & Infrastructure**
+**Frameworks & Database**
 <p>
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</p>
+
+**Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
 </p>
 
 <br>
@@ -51,7 +59,8 @@
 -->
 
 **🏃‍♀️ Activities & Education**
-* `2025.01 - 2025.08` 무중단을 위한 클라우드 기반 자바 풀스택 개발자 과정 수료
+* `2026.03 -` **멋쟁이사자처럼 14기** - Backend
+* `2025.01 - 2025.08` **클라우드 기반 자바 풀스택 개발자 과정** - 수료
 * `2023.03 - 2025.02` **SOLUX** - 중앙 개발 동아리 28, 29기 운영진
 * `2023.09 - 2024.07` **DACOS** - 데이터 분석 학회 1.5기
 
