@@ -1,6 +1,4 @@
 ### 👋 Hello, I'm Jiyun Kang 
-<h6>Software Engineer | Interested in Backend, AI & Cloud </h6>
-<h6>Sookmyung Women's Univ. Computer Science 23 </h6>
 
 ---
 
@@ -56,7 +54,7 @@
 * `2023.09` **대상** - 제 1회 DACOS 데이터톤
 
 <br>
--->
+
 
 **🏃‍♀️ Activities & Education**
 * `2026.03 -` **멋쟁이사자처럼 14기** - Backend
@@ -65,6 +63,7 @@
 * `2023.09 - 2024.07` **DACOS** - 데이터 분석 학회 1.5기
 
 <br>
+-->
 
 **📫 Contact**
 * **Email:** [kangji09879@sookmyung.ac.kr](mailto:kangji09879@sookmyung.ac.kr)
